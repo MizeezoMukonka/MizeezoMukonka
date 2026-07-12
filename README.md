@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Mizeezo Mukonka 👋
+BSc. Computer Science Student at UNZA | Founder of SyntaxSavvy ZM
+
+Currently building SpendSmart — a free expense tracker for Zambia.
 
 <!--
 **MizeezoMukonka/MizeezoMukonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
