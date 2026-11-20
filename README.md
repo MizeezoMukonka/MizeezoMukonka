@@ -1,4 +1,4 @@
-# Hi, I'm Mizeezo Mukonka 
+# Hi, I'm Mizeezo Mukonka  how are you
 
 **Computer Science Student | Aspiring Software Engineer | Founder of SyntaxSavvy Technologies**
 
